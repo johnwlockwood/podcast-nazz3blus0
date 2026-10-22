@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 09:52:33 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:55:06 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Software Engineering at Google: Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
     </image>
+    <item>
+      <title>Software Engineering at Google, Ch 13: Test Doubles</title>
+      <description>Why did Google's love affair with mocking frameworks turn into a maintenance bill? In this deep dive on Chapter 13 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Andrew Trenk and Dillon Bly), we unpack test doubles: seams and dependency injection, the three techniques of faking, stubbing, and interaction testing, why Google prefers real implementations and classical over mockist testing, the @DoNotMock annotation, how to judge fidelity and when to write a fake, the dangers of overusing stubs, change-detector tests, and why state testing beats interaction testing. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TMJjSeRU5xFr6K_nfy_fRhAADJAOzPCedTlI7pP1eCs=</description>
+      <itunes:summary>Why did Google's love affair with mocking frameworks turn into a maintenance bill? In this deep dive on Chapter 13 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Andrew Trenk and Dillon Bly), we unpack test doubles: seams and dependency injection, the three techniques of faking, stubbing, and interaction testing, why Google prefers real implementations and classical over mockist testing, the @DoNotMock annotation, how to judge fidelity and when to write a fake, the dangers of overusing stubs, change-detector tests, and why state testing beats interaction testing. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TMJjSeRU5xFr6K_nfy_fRhAADJAOzPCedTlI7pP1eCs=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch13-test-doubles.mp3" length="24087448" type="audio/mpeg"/>
+      <guid isPermaLink="false">41b005a6-dfde-4427-91f4-d13913ddae79</guid>
+      <pubDate>Thu, 22 Oct 2026 10:55:06 -0700</pubDate>
+      <itunes:duration>25:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Software Engineering at Google, Ch 12: Unit Testing</title>
       <description>Why can a screen full of failing tests contain zero real bugs? In this deep dive on Chapter 12 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Erik Kuefler), we unpack Google's case that unit-test quality is a maintainability problem: brittle versus unchanging tests, the four kinds of code change, testing through public APIs, state over interactions, complete and concise tests, testing behaviors instead of methods, given/when/then structure, behavior-based names, no logic in tests, clear failure messages, and why test code should be DAMP rather than DRY. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/8ISYoNMOHzzSEnVOaT6yKWYf3rbsKsUGjl50I-pelt8=</description>

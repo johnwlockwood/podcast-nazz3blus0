@@ -16,5 +16,14 @@
     "length": 23323419,
     "duration": 1458,
     "pub_date": "2026-10-22T09:52:33.638361-07:00"
+  },
+  {
+    "guid": "41b005a6-dfde-4427-91f4-d13913ddae79",
+    "title": "Software Engineering at Google, Ch 13: Test Doubles",
+    "description": "Why did Google's love affair with mocking frameworks turn into a maintenance bill? In this deep dive on Chapter 13 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Andrew Trenk and Dillon Bly), we unpack test doubles: seams and dependency injection, the three techniques of faking, stubbing, and interaction testing, why Google prefers real implementations and classical over mockist testing, the @DoNotMock annotation, how to judge fidelity and when to write a fake, the dangers of overusing stubs, change-detector tests, and why state testing beats interaction testing. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TMJjSeRU5xFr6K_nfy_fRhAADJAOzPCedTlI7pP1eCs=",
+    "file": "software-engineering-at-google-ch13-test-doubles.mp3",
+    "length": 24087448,
+    "duration": 1505,
+    "pub_date": "2026-10-22T10:55:06.778282-07:00"
   }
 ]
