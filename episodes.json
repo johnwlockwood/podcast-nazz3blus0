@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "guid": "50c668d2-e349-421d-a8fb-484673128488",
+    "title": "Software Engineering at Google, Ch 11: Testing Overview",
+    "description": "Why did Google stop trusting smart engineers alone to keep bugs out? In this deep dive on Chapter 11 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Adam Bender), we follow the Google Web Server's turnaround from a mostly-rolled-back release process to a test-every-change culture, then unpack the chapter's toolkit: test size versus scope, hermetic and flaky tests, the 80/15/5 test pyramid and its ice-cream-cone and hourglass antipatterns, the Beyonc\u00e9 Rule, why code coverage misleads, and how bathroom flyers and a five-level certification ladder changed engineering habits without a leadership mandate. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/zpspbstUa4zxmLl41nB3z9I1uDhAQG5TT7gEptFsZ1s=",
+    "file": "software-engineering-at-google-ch11-testing-overview.mp3",
+    "length": 24446475,
+    "duration": 1528,
+    "pub_date": "2026-10-22T08:56:52.788765-07:00"
+  }
+]
