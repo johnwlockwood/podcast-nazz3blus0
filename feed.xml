@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineering at Google: Deep Dives</title>
+    <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
+    <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Oct 2026 08:41:16 -0700</lastBuildDate>
+    <itunes:author>John Lockwood</itunes:author>
+    <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://johnwlockwood.github.io/podcast-nazz3blus0/cover.jpg"/>
+    <image>
+      <url>https://johnwlockwood.github.io/podcast-nazz3blus0/cover.jpg</url>
+      <title>Software Engineering at Google: Deep Dives</title>
+      <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
+    </image>
+
+  </channel>
+</rss>
