@@ -52,5 +52,14 @@
     "length": 22818942,
     "duration": 1426,
     "pub_date": "2026-10-22T11:47:25.485797-07:00"
+  },
+  {
+    "guid": "be622643-1202-4815-a751-8226fa97496c",
+    "title": "Software Engineering at Google, Ch 4: Engineering for Equity",
+    "description": "A two-host deep dive into Chapter 4 of Software Engineering at Google, Engineering for Equity, written by Demma Rodriguez and edited by Riona MacNamara. We cover the author's argument that bias is the default, the 2015 Google Photos failure, multicultural capacity, accountability, rejecting singular approaches, challenging established processes, and values versus outcomes, plus our even-handed take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/M7d8ISYY_6cZ_pFHfLdPrrJiCspB5c2bFh1dtNXz4IE=",
+    "file": "software-engineering-at-google-ch4-engineering-for-equity.mp3",
+    "length": 22938478,
+    "duration": 1434,
+    "pub_date": "2026-10-22T11:56:05.343698-07:00"
   }
 ]

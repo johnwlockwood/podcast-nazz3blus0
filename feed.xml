@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:47:25 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:56:05 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Software Engineering at Google: Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
     </image>
+    <item>
+      <title>Software Engineering at Google, Ch 4: Engineering for Equity</title>
+      <description>A two-host deep dive into Chapter 4 of Software Engineering at Google, Engineering for Equity, written by Demma Rodriguez and edited by Riona MacNamara. We cover the author's argument that bias is the default, the 2015 Google Photos failure, multicultural capacity, accountability, rejecting singular approaches, challenging established processes, and values versus outcomes, plus our even-handed take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/M7d8ISYY_6cZ_pFHfLdPrrJiCspB5c2bFh1dtNXz4IE=</description>
+      <itunes:summary>A two-host deep dive into Chapter 4 of Software Engineering at Google, Engineering for Equity, written by Demma Rodriguez and edited by Riona MacNamara. We cover the author's argument that bias is the default, the 2015 Google Photos failure, multicultural capacity, accountability, rejecting singular approaches, challenging established processes, and values versus outcomes, plus our even-handed take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/M7d8ISYY_6cZ_pFHfLdPrrJiCspB5c2bFh1dtNXz4IE=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch4-engineering-for-equity.mp3" length="22938478" type="audio/mpeg"/>
+      <guid isPermaLink="false">be622643-1202-4815-a751-8226fa97496c</guid>
+      <pubDate>Thu, 22 Oct 2026 11:56:05 -0700</pubDate>
+      <itunes:duration>23:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Software Engineering at Google, Ch 3: Knowledge Sharing</title>
       <description>How did one early engineer's habit of reviewing every new hire's code grow into a company-wide program? In this deep dive on Chapter 3 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Nina Chen and Mark Barolak), we explore knowledge sharing: the challenges to learning (information islands, single points of failure, parroting, and haunted graveyards), why psychological safety comes first, mentors and the Recurse Center's social rules, asking questions and Chesterton's fence, group chats, mailing lists, and Q&amp;A systems, teaching through office hours, classes, and documentation, respect, peer bonuses, canonical guides and go links, and Google's readability program, including what its research found. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/LU27DhXw0cTLQNHWHpClRoQuBbUkbAssW2mReIdLhu8=</description>
