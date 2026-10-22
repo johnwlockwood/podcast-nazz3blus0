@@ -7,5 +7,14 @@
     "length": 24446475,
     "duration": 1528,
     "pub_date": "2026-10-22T08:56:52.788765-07:00"
+  },
+  {
+    "guid": "164c8a5b-9fb5-4d3f-be6c-dc3ffe4b83a4",
+    "title": "Software Engineering at Google, Ch 12: Unit Testing",
+    "description": "Why can a screen full of failing tests contain zero real bugs? In this deep dive on Chapter 12 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Erik Kuefler), we unpack Google's case that unit-test quality is a maintainability problem: brittle versus unchanging tests, the four kinds of code change, testing through public APIs, state over interactions, complete and concise tests, testing behaviors instead of methods, given/when/then structure, behavior-based names, no logic in tests, clear failure messages, and why test code should be DAMP rather than DRY. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/8ISYoNMOHzzSEnVOaT6yKWYf3rbsKsUGjl50I-pelt8=",
+    "file": "software-engineering-at-google-ch12-unit-testing.mp3",
+    "length": 23323419,
+    "duration": 1458,
+    "pub_date": "2026-10-22T09:52:33.638361-07:00"
   }
 ]
