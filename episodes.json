@@ -25,5 +25,14 @@
     "length": 24087448,
     "duration": 1505,
     "pub_date": "2026-10-22T10:55:06.778282-07:00"
+  },
+  {
+    "guid": "a5617b54-8b41-479e-897c-4aa04c558fc1",
+    "title": "Software Engineering at Google, Ch 14: Larger Testing",
+    "description": "How did a Google test end up as an internet mystery on YouTube? In this deep dive on Chapter 14 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Joseph Graves), we explore larger tests: why fidelity is the reason they exist, the gaps unit tests leave (unfaithful doubles, configuration, load, unanticipated behavior, and the \"vacuum effect\"), why larger tests are slow, flaky, and hard to own, the anatomy of a system under test, record/replay, test data and verification, and a tour of Google's larger tests, from A/B diffs and probers to DiRT disaster drills and chaos engineering, plus how to keep them fast, understandable, and owned. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ObB7txLOItkIiIDUwntnJAIeTdFFh1ltPLVoipmA_sU=",
+    "file": "software-engineering-at-google-ch14-larger-testing.mp3",
+    "length": 24387543,
+    "duration": 1524,
+    "pub_date": "2026-10-22T11:11:32.304552-07:00"
   }
 ]

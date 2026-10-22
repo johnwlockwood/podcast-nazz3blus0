@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:55:06 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:11:32 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Software Engineering at Google: Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
     </image>
+    <item>
+      <title>Software Engineering at Google, Ch 14: Larger Testing</title>
+      <description>How did a Google test end up as an internet mystery on YouTube? In this deep dive on Chapter 14 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Joseph Graves), we explore larger tests: why fidelity is the reason they exist, the gaps unit tests leave (unfaithful doubles, configuration, load, unanticipated behavior, and the "vacuum effect"), why larger tests are slow, flaky, and hard to own, the anatomy of a system under test, record/replay, test data and verification, and a tour of Google's larger tests, from A/B diffs and probers to DiRT disaster drills and chaos engineering, plus how to keep them fast, understandable, and owned. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ObB7txLOItkIiIDUwntnJAIeTdFFh1ltPLVoipmA_sU=</description>
+      <itunes:summary>How did a Google test end up as an internet mystery on YouTube? In this deep dive on Chapter 14 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Joseph Graves), we explore larger tests: why fidelity is the reason they exist, the gaps unit tests leave (unfaithful doubles, configuration, load, unanticipated behavior, and the "vacuum effect"), why larger tests are slow, flaky, and hard to own, the anatomy of a system under test, record/replay, test data and verification, and a tour of Google's larger tests, from A/B diffs and probers to DiRT disaster drills and chaos engineering, plus how to keep them fast, understandable, and owned. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ObB7txLOItkIiIDUwntnJAIeTdFFh1ltPLVoipmA_sU=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch14-larger-testing.mp3" length="24387543" type="audio/mpeg"/>
+      <guid isPermaLink="false">a5617b54-8b41-479e-897c-4aa04c558fc1</guid>
+      <pubDate>Thu, 22 Oct 2026 11:11:32 -0700</pubDate>
+      <itunes:duration>25:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Software Engineering at Google, Ch 13: Test Doubles</title>
       <description>Why did Google's love affair with mocking frameworks turn into a maintenance bill? In this deep dive on Chapter 13 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Andrew Trenk and Dillon Bly), we unpack test doubles: seams and dependency injection, the three techniques of faking, stubbing, and interaction testing, why Google prefers real implementations and classical over mockist testing, the @DoNotMock annotation, how to judge fidelity and when to write a fake, the dangers of overusing stubs, change-detector tests, and why state testing beats interaction testing. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/TMJjSeRU5xFr6K_nfy_fRhAADJAOzPCedTlI7pP1eCs=</description>
