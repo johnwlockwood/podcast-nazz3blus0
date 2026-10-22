@@ -34,5 +34,14 @@
     "length": 24387543,
     "duration": 1524,
     "pub_date": "2026-10-22T11:11:32.304552-07:00"
+  },
+  {
+    "guid": "19ea4aad-7171-4c84-8f49-49d4a4fea575",
+    "title": "Software Engineering at Google, Ch 2: How to Work Well on Teams",
+    "description": "Why would anyone ask a code host to wipe all their history? In this deep dive on Chapter 2 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Brian Fitzpatrick), we open the book's culture section: the Genius Myth and the insecurity behind hiding work, why hiding is harmful (early detection, the bus factor, and pace of progress), the debate over private versus open offices, the three pillars of humility, respect, and trust, and how they play out in practice, from losing the ego and giving better code review feedback to failing fast, blameless postmortems, patience, and openness to influence, plus how Google replaced the vague \"Googley\" label with an explicit rubric. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/RmUgjY7UuR5Lv2xTJk2Xn1pgzthOMpTE72SepO1_rZg=",
+    "file": "software-engineering-at-google-ch2-how-to-work-well-on-teams.mp3",
+    "length": 22805567,
+    "duration": 1425,
+    "pub_date": "2026-10-22T11:34:01.346260-07:00"
   }
 ]

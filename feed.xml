@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:11:32 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:34:01 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -19,6 +19,17 @@
       <title>Software Engineering at Google: Deep Dives</title>
       <link>https://johnwlockwood.github.io/podcast-nazz3blus0/</link>
     </image>
+    <item>
+      <title>Software Engineering at Google, Ch 2: How to Work Well on Teams</title>
+      <description>Why would anyone ask a code host to wipe all their history? In this deep dive on Chapter 2 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Brian Fitzpatrick), we open the book's culture section: the Genius Myth and the insecurity behind hiding work, why hiding is harmful (early detection, the bus factor, and pace of progress), the debate over private versus open offices, the three pillars of humility, respect, and trust, and how they play out in practice, from losing the ego and giving better code review feedback to failing fast, blameless postmortems, patience, and openness to influence, plus how Google replaced the vague "Googley" label with an explicit rubric. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/RmUgjY7UuR5Lv2xTJk2Xn1pgzthOMpTE72SepO1_rZg=</description>
+      <itunes:summary>Why would anyone ask a code host to wipe all their history? In this deep dive on Chapter 2 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Brian Fitzpatrick), we open the book's culture section: the Genius Myth and the insecurity behind hiding work, why hiding is harmful (early detection, the bus factor, and pace of progress), the debate over private versus open offices, the three pillars of humility, respect, and trust, and how they play out in practice, from losing the ego and giving better code review feedback to failing fast, blameless postmortems, patience, and openness to influence, plus how Google replaced the vague "Googley" label with an explicit rubric. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/RmUgjY7UuR5Lv2xTJk2Xn1pgzthOMpTE72SepO1_rZg=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch2-how-to-work-well-on-teams.mp3" length="22805567" type="audio/mpeg"/>
+      <guid isPermaLink="false">19ea4aad-7171-4c84-8f49-49d4a4fea575</guid>
+      <pubDate>Thu, 22 Oct 2026 11:34:01 -0700</pubDate>
+      <itunes:duration>23:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Software Engineering at Google, Ch 14: Larger Testing</title>
       <description>How did a Google test end up as an internet mystery on YouTube? In this deep dive on Chapter 14 of Software Engineering at Google (Winters, Manshreck &amp; Wright; chapter by Joseph Graves), we explore larger tests: why fidelity is the reason they exist, the gaps unit tests leave (unfaithful doubles, configuration, load, unanticipated behavior, and the "vacuum effect"), why larger tests are slow, flaky, and hard to own, the anatomy of a system under test, record/replay, test data and verification, and a tour of Google's larger tests, from A/B diffs and probers to DiRT disaster drills and chaos engineering, plus how to keep them fast, understandable, and owned. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/ObB7txLOItkIiIDUwntnJAIeTdFFh1ltPLVoipmA_sU=</description>
