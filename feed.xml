@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:32:48 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:57:07 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -60,6 +60,17 @@
       <guid isPermaLink="false">50c668d2-e349-421d-a8fb-484673128488</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 -0700</pubDate>
       <itunes:duration>25:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Software Engineering at Google, Ch 9: Code Review</title>
+      <description>A two-host deep dive into Chapter 9 of Software Engineering at Google, Code Review, written by Tom Manshreck and Caitlin Sadowski and edited by Lisa Carey. We cover how a review flows at Google, why code is a liability, the three kinds of approval and code ownership, why comprehension matters more than catching bugs, the psychological and knowledge-sharing benefits, best practices like small changes and good descriptions, and the four types of review, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/QzoEebFi3HZ2ZQ5UQniL9HJHm5wRyXpX30VaB3lcU8E=</description>
+      <itunes:summary>A two-host deep dive into Chapter 9 of Software Engineering at Google, Code Review, written by Tom Manshreck and Caitlin Sadowski and edited by Lisa Carey. We cover how a review flows at Google, why code is a liability, the three kinds of approval and code ownership, why comprehension matters more than catching bugs, the psychological and knowledge-sharing benefits, best practices like small changes and good descriptions, and the four types of review, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/QzoEebFi3HZ2ZQ5UQniL9HJHm5wRyXpX30VaB3lcU8E=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch9-code-review.mp3" length="22429404" type="audio/mpeg"/>
+      <guid isPermaLink="false">1602fd15-ba35-4b39-a8f5-45e738111d41</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 -0700</pubDate>
+      <itunes:duration>23:22</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

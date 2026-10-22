@@ -97,5 +97,14 @@
     "length": 24117123,
     "duration": 1507,
     "pub_date": "2026-10-21T08:00:00-07:00"
+  },
+  {
+    "guid": "1602fd15-ba35-4b39-a8f5-45e738111d41",
+    "title": "Software Engineering at Google, Ch 9: Code Review",
+    "description": "A two-host deep dive into Chapter 9 of Software Engineering at Google, Code Review, written by Tom Manshreck and Caitlin Sadowski and edited by Lisa Carey. We cover how a review flows at Google, why code is a liability, the three kinds of approval and code ownership, why comprehension matters more than catching bugs, the psychological and knowledge-sharing benefits, best practices like small changes and good descriptions, and the four types of review, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/QzoEebFi3HZ2ZQ5UQniL9HJHm5wRyXpX30VaB3lcU8E=",
+    "file": "software-engineering-at-google-ch9-code-review.mp3",
+    "length": 22429404,
+    "duration": 1402,
+    "pub_date": "2026-10-21T09:00:00-07:00"
   }
 ]
