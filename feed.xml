@@ -6,7 +6,7 @@
     <atom:link href="https://johnwlockwood.github.io/podcast-nazz3blus0/feed.xml" rel="self" type="application/rss+xml"/>
     <description>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:58:46 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:19:51 -0700</lastBuildDate>
     <itunes:author>John Lockwood</itunes:author>
     <itunes:summary>AI-generated two-host deep dives, one per chapter of Software Engineering at Google: Lessons Learned from Programming Over Time (Winters, Manshreck, Wright), starting with the testing chapters, each built from an IntuiBloom knowledge graph.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -60,6 +60,17 @@
       <guid isPermaLink="false">50c668d2-e349-421d-a8fb-484673128488</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 -0700</pubDate>
       <itunes:duration>25:28</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Software Engineering at Google, Ch 7: Measuring Engineering Productivity</title>
+      <description>A two-host deep dive into Chapter 7 of Software Engineering at Google, Measuring Engineering Productivity, written by Ciera Jaspan and edited by Riona MacNamara. We cover why Google measures productivity, the triage questions that decide whether something is worth measuring, the goals, signals, and metrics framework, the five QUANTS components, validating numbers with qualitative data, and the readability case study, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/IgQf50-jNaB1c7LWe8_U6VVjRXak8jVUlYomwivaZMU=</description>
+      <itunes:summary>A two-host deep dive into Chapter 7 of Software Engineering at Google, Measuring Engineering Productivity, written by Ciera Jaspan and edited by Riona MacNamara. We cover why Google measures productivity, the triage questions that decide whether something is worth measuring, the goals, signals, and metrics framework, the five QUANTS components, validating numbers with qualitative data, and the readability case study, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/IgQf50-jNaB1c7LWe8_U6VVjRXak8jVUlYomwivaZMU=</itunes:summary>
+      <enclosure url="https://pub-b80d22a0a8374ed28b57fadd449cf9dc.r2.dev/episodes/software-engineering-at-google-ch7-measuring-engineering-productivity.mp3" length="22984872" type="audio/mpeg"/>
+      <guid isPermaLink="false">ab35508b-16e1-42bb-b47d-2a24b0b552e1</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 -0700</pubDate>
+      <itunes:duration>23:57</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
