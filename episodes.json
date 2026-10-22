@@ -43,5 +43,14 @@
     "length": 22805567,
     "duration": 1425,
     "pub_date": "2026-10-22T11:34:01.346260-07:00"
+  },
+  {
+    "guid": "8f1ac587-3914-429b-a6e5-d375f2825f48",
+    "title": "Software Engineering at Google, Ch 3: Knowledge Sharing",
+    "description": "How did one early engineer's habit of reviewing every new hire's code grow into a company-wide program? In this deep dive on Chapter 3 of Software Engineering at Google (Winters, Manshreck & Wright; chapter by Nina Chen and Mark Barolak), we explore knowledge sharing: the challenges to learning (information islands, single points of failure, parroting, and haunted graveyards), why psychological safety comes first, mentors and the Recurse Center's social rules, asking questions and Chesterton's fence, group chats, mailing lists, and Q&A systems, teaching through office hours, classes, and documentation, respect, peer bonuses, canonical guides and go links, and Google's readability program, including what its research found. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/LU27DhXw0cTLQNHWHpClRoQuBbUkbAssW2mReIdLhu8=",
+    "file": "software-engineering-at-google-ch3-knowledge-sharing.mp3",
+    "length": 22818942,
+    "duration": 1426,
+    "pub_date": "2026-10-22T11:47:25.485797-07:00"
   }
 ]
