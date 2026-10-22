@@ -70,5 +70,14 @@
     "length": 22906714,
     "duration": 1432,
     "pub_date": "2026-10-22T13:00:00-07:00"
+  },
+  {
+    "guid": "efd28635-a409-490d-8fb0-2ee4e28e2546",
+    "title": "Software Engineering at Google, Ch 6: Leading at Scale",
+    "description": "A two-host deep dive into Chapter 6 of Software Engineering at Google, Leading at Scale, written by Ben Collins-Sussman and edited by Riona MacNamara. We cover the author's three Always of leadership: Always Be Deciding, with the Web Search latency case and the good, fast, cheap triangle; Always Be Leaving, building a self-driving team that owns problems rather than solutions; and Always Be Scaling, the spiral of success, important versus urgent, learning to drop balls, and protecting your energy, plus our take. Built from an IntuiBloom knowledge graph. Explore the IntuiBloom graph: https://www.IntuiBloom.com/share/4WdfYMqhDbXabI4R8kp6MrIs8i3KNREk2YIH7rZp77c=",
+    "file": "software-engineering-at-google-ch6-leading-at-scale.mp3",
+    "length": 24505407,
+    "duration": 1532,
+    "pub_date": "2026-10-21T06:00:00-07:00"
   }
 ]
